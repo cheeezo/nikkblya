@@ -1,1 +1,2 @@
-https://github.com/cheeezo/nikkblya/releases/tag/nikkblya
+[Скачать
+](https://github.com/cheeezo/nikkblya/releases)
